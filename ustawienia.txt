@@ -1,0 +1,4 @@
+api_key: klucz
+localhost: 127.0.0.1
+username: root
+password: haslo
