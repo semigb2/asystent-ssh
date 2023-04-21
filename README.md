@@ -1,14 +1,14 @@
-Asystent SSH
+**Asystent SSH
 Asystent SSH to narzędzie do rozwiązywania problemów z serwerem Debian, które wykorzystuje GPT-3 do generowania poleceń do wykonania na serwerze.
 
-Wymagania
-Python 3
-Paramiko
-OpenAI
-JSON
-Readline
-Instalacja
-Zainstaluj Python 3 na Debianie:
+**Wymagania
+-Python 3
+-Paramiko
+-OpenAI
+-JSON
+-Readline
+-Instalacja
+-Zainstaluj Python 3 na Debianie:
 
 bash
 Copy code
@@ -46,6 +46,3 @@ Interakcje z GPT-3 są zapisywane w pliku interaction_history.json, który zawie
 
 Ostrzeżenie
 Pamiętaj, że skrypt wykonuje polecenia na serwerze. Upewnij się, że rozumiesz, co robią te polecenia, zanim je wykonasz. Jeśli nie jesteś pewien, co robi dane polecenie, wykonaj dodatkowe badania lub skonsultuj się z ekspertem.
-
-Pomoc i wsparcie
-Jeśli napotkasz problemy podczas korzystania z Asystenta SSH,
